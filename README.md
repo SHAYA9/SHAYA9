@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer specializing in **modern web technologies** and **agentic AI systems**. I believe in the transformative power of technology and open-source collaboration to solve real-world problems.
+I'm a passionate Wev Developer specializing in **modern web technologies** and **agentic AI systems**. I believe in the transformative power of technology and open-source collaboration to solve real-world problems.
 
 - 🔭 **Currently:** Building scalable web applications and exploring AI agent architectures
 - 🌱 **Learning:** Advanced system design, ML ops, and distributed systems
 - 💡 **Interests:** Full-stack development, AI/ML integration, developer tools
-- 📫 **Reach me:** [email@example.com](mailto:email@example.com)
+- 📫 **Reach me:** [ai.shayanyt@gmail.com](mailto:ai.shayanyt@gmail.com)
 - ⚡ **Fun fact:** I enjoy reverse-engineering interesting products and documenting my learnings
 
 ---
