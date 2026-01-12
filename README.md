@@ -9,7 +9,8 @@
   
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shayan21345293&label=Profile%20views&color=0e75b6&style=flat" alt="Shayan Ali" /> </p>
 
 ## 👨‍💻 About Me
 
