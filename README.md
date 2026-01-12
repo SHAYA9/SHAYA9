@@ -1,17 +1,8 @@
 <h1 align="center">🚀 Shayan Ali | Software Developer & AI Enthusiast</h1>
 <h3 align="center">Building the future through code, collaboration, and innovative thinking</h3>
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/)
-  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-  
-</div>
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shayan21345293&label=Profile%20views&color=0e75b6&style=flat" alt="Shayan Ali" /> </p>
 
 ## 👨‍💻 About Me
 
@@ -24,6 +15,8 @@ I'm a passionate software developer specializing in **modern web technologies** 
 - ⚡ **Fun fact:** I enjoy reverse-engineering interesting products and documenting my learnings
 
 ---
+
+
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -47,64 +40,6 @@ I'm a passionate software developer specializing in **modern web technologies** 
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHAYA9&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAYA9&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=SHAYA9&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF)
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=SHAYA9&theme=onedark&row=2&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 🤖 **AI Agent Framework** | [Live Demo](https://demo-link.com) | [Code](https://github.com/SHAYA9/ai-agent)
-> A modular framework for building autonomous AI agents with multi-agent communication
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-
-### 🌐 **Modern Web Platform** | [Live Demo](https://demo-link.com) | [Code](https://github.com/SHAYA9/web-platform)
-> Full-stack application with real-time features and scalable architecture
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
-
-### 🛠️ **Developer Tool** | [Live Demo](https://demo-link.com) | [Code](https://github.com/SHAYA9/dev-tool)
-> Productivity tool for developers with AI-powered code suggestions
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable AI Agents: A Practical Guide](https://medium.com/@yourusername/building-scalable-ai-agents)
-- [Modern Web Architecture Patterns in 2024](https://medium.com/@yourusername/web-architecture-2024)
-- [The Future of Developer Tools with AI Integration](https://medium.com/@yourusername/ai-developer-tools)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Connect With Me
 
