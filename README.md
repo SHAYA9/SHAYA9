@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm the founder of [Xpertsphere](https://xpertsphere.vercel.app/) and a passionate Web Developer specializing in **modern web technologies** and **Agentic AI systems**. I believe in the transformative power of technology and open-source collaboration to solve real-world problems.
+I'm the founder of [**Xpertsphere**](https://xpertsphere.vercel.app/) and a passionate Web Developer specializing in **modern web technologies** and **Agentic AI systems**. I believe in the transformative power of technology and open-source collaboration to solve real-world problems.
 
 - 🔭 **Currently:** Building scalable web applications and exploring AI agent architectures
 - 🌱 **Learning:** Advanced system design, ML ops, and distributed systems
